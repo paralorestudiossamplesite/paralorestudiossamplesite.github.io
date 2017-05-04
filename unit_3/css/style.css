@@ -1,0 +1,59 @@
+#menu {
+	text-align: center;
+	background-color: #404040;
+	color: white;
+}
+body {
+	background-color: black;
+}
+h1 {
+	color: white;
+}
+p {
+	color: white;
+}
+h5 {
+	color: teal;
+}
+.blog2 {
+	text-align: center;
+}
+.blog3 {
+	text-align: right;
+}
+#team {
+	text-align: right;
+}
+.facebook {
+	text-align: center;
+}
+.instagram {
+	text-align: right;
+}
+h3 {
+	color: white;
+	text-align: center;
+	background-color: #404040
+}
+#newsletter {
+	text-align: center;
+	color: teal
+	background-color: #404040;
+}
+#story {
+	text-align: left;
+	background-color: black
+}
+#footer {
+	text-align: center;
+	background-color: #404040;
+	color: white;
+}
+#title {
+	text-transform: uppercase;
+	font-family: Impact, sans-serif;
+}
+#slogan {
+	text-transform: uppercase;
+	font-family: Lucida, sans-serif
+}
