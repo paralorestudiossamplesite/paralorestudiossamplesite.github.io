@@ -4,13 +4,12 @@
 
 #menu {
 	text-align: center;
-	background-color: #404040;
 	color: white;
 }
 body {
-	background-color: black;
+	background-color: white;
 }
-h1 {
+	h1 {
 	color: white;
 }
 p {
@@ -37,20 +36,17 @@ h5 {
 h3 {
 	color: white;
 	text-align: center;
-	background-color: #404040
 }
 #newsletter {
 	text-align: center;
-	color: teal
-	background-color: #404040;
+	color: teal;
 }
 #story {
 	text-align: left;
-	background-color: black
+	background-color: black;
 }
 #footer {
 	text-align: center;
-	background-color: #404040;
 	color: white;
 }
 #title {
@@ -60,4 +56,30 @@ h3 {
 #slogan {
 	text-transform: uppercase;
 	font-family: Lucida, sans-serif
+}
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+}
+img {
+	max-width: 100%;
+}
+header {
+	background-image: url(../images/new_orleans_concept_art.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: #FFED74;
+	border: 1px black solid;
+    padding: 20px;
+}
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+    padding: 20px;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+    padding: 20px;
 }
